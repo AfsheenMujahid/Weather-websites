@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+  }
+
+  .main-container {
+    background-color: black;
+    height: 120vh; /* Adjust the height as needed */
+    display:  ;
+    width: 1200px;
+     margin-left: 70px;  
+      margin-top: 70px;
+border-radius: 20px;  justify-content: space-around;
+    align-items: center;
+margin-bottom: 30px;  }
+  .main-container h1{
+    color: white;
+     padding-top: 80px;
+  }
+  .main-container h3{
+    padding-top: 20px;
+    font-size: 20px;
+    color: white;
+   }
+  .main1-container {
+    background-color: black;
+    height: 30vh; /* Adjust the height as needed */
+    display:  flex;
+    width: 1200px;
+       margin-top: 70px;
+border-radius: 20px;  justify-content: space-around;
+    align-items: center;
+   padding-bottom: 20px;
+  }
+  .sub-container {
+    margin-top: 400px;
+    background-color: white;
+    width: 300px; /* Adjust the width as needed */
+    height: 400px; /* Adjust the height as needed */
+    border-radius: 20px;
+    text-align: center;
+    line-height: 100px;
+  }
+  .sub-container h2{
+    margin-top: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: blue;
+  }
